@@ -1,4 +1,4 @@
-<img width="1884" height="926" alt="image" src="https://github.com/user-attachments/assets/c057cb49-8372-432e-8b0f-c4793e542ead" /># Jithin Varghese - Product Manager Portfolio
+# Jithin Varghese - Product Manager Portfolio
 
 A stunning glassmorphism portfolio website showcasing expertise in connected vehicles, telematics, and automotive IoT solutions.
 
