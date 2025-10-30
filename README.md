@@ -4,7 +4,7 @@ A stunning glassmorphism portfolio website showcasing expertise in connected veh
 
 ## 🚀 Live Demo
 
-Visit the live portfolio: [[Your GitHub Pages URL will be here]](https://jithin-varghese-pm.github.io/jithin-varghese-pm/)
+Visit the live portfolio: (https://jithin-varghese-pm.github.io/jithin-varghese-pm/)
 
 ## ✨ Features
 
